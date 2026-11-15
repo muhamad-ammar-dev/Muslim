@@ -83,6 +83,19 @@
   <link rel="icon" href="/Muslim/assets/mosque.CPaE6hTo.ico" type="image/x-icon" />
   <meta name="author" content="Muhamad Ammar" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <script>
+    // Safety net: if a previously installed service worker serves the app shell
+    // for a generated share page (/share/<id>/), send the visitor to the zikr.
+    (function () {
+      var match = window.location.pathname.match(/\/share\/(\d+)\/?$/);
+      if (match) {
+        window.location.replace(
+          window.location.pathname.replace(/\/share\/\d+\/?$/, '/') + '#/zikr/' + match[1]
+        );
+      }
+    })();
+  </script>
   <meta name="google-site-verification" content="CIETC6bJu7nXx1OzOwGrwLpMxLHogMNFerej4CpBDoc" />
   <meta name="msvalidate.01" content="EFFB3F46C6D7D4BEB32FE31866675B30" />
 
