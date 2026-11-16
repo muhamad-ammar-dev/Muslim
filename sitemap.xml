@@ -3,27 +3,27 @@
   xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
 >
   <url>
-    <loc>https://dashing-starburst-d2dad7.netlify.app/</loc>
+    <loc>https://muhamad-ammar-dev.github.io/Muslim/</loc>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://dashing-starburst-d2dad7.netlify.app/settings</loc>
+    <loc>https://muhamad-ammar-dev.github.io/Muslim/settings</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://dashing-starburst-d2dad7.netlify.app/about</loc>
+    <loc>https://muhamad-ammar-dev.github.io/Muslim/about</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://dashing-starburst-d2dad7.netlify.app/category/%D8%A3%D8%B0%D9%83%D8%A7%D8%B1%20%D8%A7%D9%84%D8%B5%D8%A8%D8%A7%D8%AD%20%D9%88%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%A1</loc>
+    <loc>https://muhamad-ammar-dev.github.io/Muslim/category/%D8%A3%D8%B0%D9%83%D8%A7%D8%B1%20%D8%A7%D9%84%D8%B5%D8%A8%D8%A7%D8%AD%20%D9%88%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%A1</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://dashing-starburst-d2dad7.netlify.app/favorites</loc>
+    <loc>https://muhamad-ammar-dev.github.io/Muslim/favorites</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
